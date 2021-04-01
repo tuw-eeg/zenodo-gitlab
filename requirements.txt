@@ -1,0 +1,4 @@
+requests==2.25.1
+python-gitlab==2.6.0
+pytest==6.2.2
+tox==3.23.0
